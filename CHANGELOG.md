@@ -2,7 +2,7 @@
 
 All notable changes to DBView will be documented in this file.
 
-## [1.0.0-beta.1] - 2024-12-08
+## [1.0.0-beta.1] - 2025-12-09
 
 ### Added
 - Initial beta release
