@@ -23,7 +23,9 @@ This release improves database export and import functionality with better suppo
 
 ### Download
 
-- [DBView_1.0.1_aarch64.dmg](./v1.0.1/DBView_1.0.1_aarch64.dmg) - Apple Silicon (M1/M2/M3/M4)
+- [DBView_1.0.1_aarch64.dmg](./v1.0.1/DBView_1.0.1_aarch64.dmg) - macOS Apple Silicon (M1/M2/M3/M4)
+- [DBView_1.0.1_x64-setup.exe](./v1.0.1/DBView_1.0.1_x64-setup.exe) - Windows 64-bit Installer
+- [DBView_1.0.1_x64_en-US.msi](./v1.0.1/DBView_1.0.1_x64_en-US.msi) - Windows 64-bit MSI
 
 ---
 

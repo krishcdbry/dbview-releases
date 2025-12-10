@@ -16,8 +16,12 @@ Public releases repository for DBView - a beautiful, fast database client for ma
 
 ## System Requirements
 
+**macOS:**
 - macOS 12.0 (Monterey) or later
 - Apple Silicon (M1/M2/M3/M4)
+
+**Windows:**
+- Windows 10 or later (64-bit)
 
 ## Installation
 
@@ -31,11 +35,11 @@ DBView includes automatic update checking. When a new version is available, you'
 
 ## All Releases
 
-| Version | Date | Download |
-|---------|------|----------|
-| v1.0.1 | 2025-12-10 | [DMG](./v1.0.1/DBView_1.0.1_aarch64.dmg) |
-| v1.0.0 | 2025-12-10 | [DMG](./v1.0.0/DBView_1.0.0_aarch64.dmg) |
-| v1.0.0-beta.1 | 2025-12-09 | [DMG](./v1.0.0-beta.1/DBView_1.0.0-beta.1_aarch64.dmg) |
+| Version | Date | macOS | Windows |
+|---------|------|-------|---------|
+| v1.0.1 | 2025-12-10 | [DMG](./v1.0.1/DBView_1.0.1_aarch64.dmg) | [EXE](./v1.0.1/DBView_1.0.1_x64-setup.exe) / [MSI](./v1.0.1/DBView_1.0.1_x64_en-US.msi) |
+| v1.0.0 | 2025-12-10 | [DMG](./v1.0.0/DBView_1.0.0_aarch64.dmg) | - |
+| v1.0.0-beta.1 | 2025-12-09 | [DMG](./v1.0.0-beta.1/DBView_1.0.0-beta.1_aarch64.dmg) | - |
 
 ## Changelog
 
