@@ -55,4 +55,4 @@ For bug reports and feature requests:
 ## Links
 
 - Website: [dbview.io](https://dbview.io)
-- Documentation: [docs.dbview.io](https://docs.dbview.io)
+- Documentation: [dbview.io/docs](https://www.dbview.io/docs)
