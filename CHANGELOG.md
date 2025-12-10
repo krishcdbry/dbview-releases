@@ -2,6 +2,39 @@
 
 All notable changes to DBView will be documented in this file.
 
+## [1.0.0] - 2025-12-10
+
+### First Stable Release
+
+DBView v1.0.0 is the first stable release of the native macOS database client.
+
+### Features
+
+- **Database Support**: MySQL, PostgreSQL, SQLite
+- **SQL Editor**: Monaco editor with syntax highlighting, auto-completion
+- **Query Results**: Virtual scrolling data grid with sorting, resizing, export
+- **ERD Visualization**: Auto-generated schema diagrams with relationship highlighting
+- **SQL Book**: Save and organize frequently used queries
+- **Query History**: Track executed queries with timestamps
+- **Workbook Dashboards**: Create dashboards with tables, charts, and metrics
+- **AI Assistant**: Multi-provider support (OpenAI, Anthropic, Google, Ollama)
+- **SSH Tunnel**: Secure connections with password/key authentication
+- **Themes**: Dark and Light themes
+- **Safe Mode**: Block destructive SQL operations
+
+### Technical
+
+- Built with Tauri 2.0 + React 19
+- Code signed with Apple Developer ID
+- macOS 12.0+ required
+- Apple Silicon (ARM64) native
+
+### Download
+
+- [DBView_1.0.0_aarch64.dmg](./v1.0.0/DBView_1.0.0_aarch64.dmg) - Apple Silicon (M1/M2/M3/M4)
+
+---
+
 ## [1.0.0-beta.1] - 2025-12-09
 
 ### Added
