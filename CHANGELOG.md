@@ -2,6 +2,31 @@
 
 All notable changes to DBView will be documented in this file.
 
+## [1.0.1] - 2025-12-10
+
+### Enhanced Export/Import
+
+This release improves database export and import functionality with better support for database objects.
+
+### Features
+
+- **Export Checkboxes**: Choose to include/exclude views, procedures, functions, and triggers when exporting
+- **MySQL DELIMITER Support**: Import procedures and functions with proper DELIMITER syntax handling
+- **Dynamic Version**: App now uses Tauri getVersion() for accurate version reporting
+- **Anonymous Telemetry**: Usage analytics to help improve the app
+
+### Fixes
+
+- Fixed import failing with MySQL DELIMITER syntax for procedures/functions
+- Fixed escaped quotes (doubled quotes) not being handled correctly during import
+- Fixed version hardcoding in updater service
+
+### Download
+
+- [DBView_1.0.1_aarch64.dmg](./v1.0.1/DBView_1.0.1_aarch64.dmg) - Apple Silicon (M1/M2/M3/M4)
+
+---
+
 ## [1.0.0] - 2025-12-10
 
 ### First Stable Release

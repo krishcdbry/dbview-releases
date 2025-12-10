@@ -2,23 +2,17 @@
 
 Public releases repository for DBView - a beautiful, fast database client for macOS.
 
-## Latest Release: v1.0.0
+## Latest Release: v1.0.1
 
-**Download:** [DBView_1.0.0_aarch64.dmg](./v1.0.0/DBView_1.0.0_aarch64.dmg) (Apple Silicon)
+**Download:** [DBView_1.0.1_aarch64.dmg](./v1.0.1/DBView_1.0.1_aarch64.dmg) (Apple Silicon)
 
-### What's New in v1.0.0
+### What's New in v1.0.1
 
-- First stable release
-- Multi-database support (MySQL, PostgreSQL, SQLite)
-- SQL editor with syntax highlighting and auto-completion
-- Query results with virtual scrolling, sorting, and export
-- ERD visualization with relationship highlighting
-- SQL Book for organizing queries
-- Workbook dashboards with charts and metrics
-- AI Assistant (OpenAI, Anthropic, Google, Ollama)
-- SSH Tunnel support
-- Dark and Light themes
-- Code signed with Apple Developer ID
+- Export dialog with checkboxes for views, procedures, functions, triggers
+- Import support for MySQL DELIMITER syntax
+- Dynamic version detection using Tauri API
+- Anonymous telemetry for app improvement
+- Fixed import issues with escaped quotes and DELIMITER syntax
 
 ## System Requirements
 
@@ -39,6 +33,7 @@ DBView includes automatic update checking. When a new version is available, you'
 
 | Version | Date | Download |
 |---------|------|----------|
+| v1.0.1 | 2025-12-10 | [DMG](./v1.0.1/DBView_1.0.1_aarch64.dmg) |
 | v1.0.0 | 2025-12-10 | [DMG](./v1.0.0/DBView_1.0.0_aarch64.dmg) |
 | v1.0.0-beta.1 | 2025-12-09 | [DMG](./v1.0.0-beta.1/DBView_1.0.0-beta.1_aarch64.dmg) |
 
